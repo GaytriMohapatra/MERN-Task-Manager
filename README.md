@@ -3,7 +3,7 @@
 A MERN application for basic tasks management.
 ![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
-### User-side features
+## User-side features
 
 - Signup
 - Login
@@ -13,7 +13,7 @@ A MERN application for basic tasks management.
 - Update tasks
 - Delete tasks
 
-### Developer-side features
+## Developer-side features
 
 - Toasts for success and error messages
 - Form validations in frontend and backend
